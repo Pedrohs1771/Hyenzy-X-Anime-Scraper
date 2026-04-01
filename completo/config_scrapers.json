@@ -1,0 +1,21 @@
+{
+  "AnimeCore.to": false,
+  "AnimesDigital.org": true,
+  "AnimesHD.to": true,
+  "AnimeBR.org": false,
+  "upscale_profile": {
+    "perfil": "forte",
+    "shaders_path": "C:\\Users\\Pedro\\Desktop\\vengeance\\completo\\shaders",
+    "arquivos": [
+      "Anime4K_Upscale_CNN_x2_UL.glsl",
+      "Anime4K_Restore_CNN_Soft_VL.glsl",
+      "Anime4K_AutoDownscalePre_x4.glsl"
+    ]
+  },
+  "AnimeQ.net": false,
+  "AnimesOnlineCC.to": true,
+  "AnimeDrive.blog": false,
+  "AnimesOnlineFHD.vip": true,
+  "GoFlixy.lol": true,
+  "SuperFlix1.cloud": true
+}
